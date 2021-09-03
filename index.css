@@ -11,9 +11,10 @@
   height: 100vh;
   width: 100vw;*/
   width: 100%;
+  height: 100vh;
   min-height: -webkit-fill-available;
   height: -webkit-fill-available;
-  height: 100vh;
+
   margin: 0;
   display: grid;
 
@@ -78,7 +79,7 @@
 
 .Footer {
   height: 150px;
-  background-color: rgb(199, 18, 117);
+  background-color: rgb(29, 121, 182);
   grid-area: menu;
   border-color: blue;
   border-width: 2px;
