@@ -75,9 +75,8 @@
 }
 
 .Footer {
-  /* grid-area: Footer;
   height: 100px;
-  background-color: red;*/
+  background-color: red;
   grid-area: menu;
   border-color: blue;
   border-width: 2px;
